@@ -15,7 +15,7 @@ El objetivo del proyecto es identificar, evaluar y fortalecer la seguridad de un
 
 ## 📂 Estructura del Proyecto  
 📁 Proyecto-Ciberseguridad
-├── 📄 README.md
-├── 📂 Reportes/ (Informes de auditoría)
-├── 📂 Scripts/ (Herramientas utilizadas)
-├── 📂 Recursos/ (Documentación y referencias)
+    ├── 📄 README.md
+    ├── 📂 Reportes/ (Informes de auditoría)
+    ├── 📂 Scripts/ (Herramientas utilizadas)
+    ├── 📂 Recursos/ (Documentación y referencias)
