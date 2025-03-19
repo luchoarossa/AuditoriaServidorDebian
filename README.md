@@ -28,3 +28,6 @@ Este repositorio contiene informes completos que documentan cada fase del pentes
 1.  **Explorar los Informes:** Navega por los diferentes directorios para acceder a los informes de cada fase del proyecto.
 2.  **Analizar los Resultados:** Revisa los informes para comprender las vulnerabilidades identificadas, las pruebas realizadas y las recomendaciones de seguridad.
 3.  **Utilizar como Referencia:** Este repositorio puede servir como una guía práctica para realizar auditorías de seguridad y pentesting en servidores Debian.
+
+## 📷 Captura de Pantalla  
+![Auditoría de Seguridad](./proyecto.png)
